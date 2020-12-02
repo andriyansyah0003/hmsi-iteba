@@ -34,13 +34,13 @@ body{
 
 //header
 header{
+    background-color: #F5F6F8;
+    color: #071c4d;
+}
+.bg-header{
     background-color: #071c4d;
     background-size: cover;
-    padding: 130px 0px 165px;
-    color: #fff;
-}
-.content-left{
-    padding: 130px 0px 165px;
+    padding: 130px 0px 160px;
     color: #fff;
 }
 .card-style{
@@ -50,16 +50,13 @@ header{
 }
 
 // section
-section{
+.bg-section{
     background-color: #F5F6F8;
 }
-section{
-    .card{
-        img{
-            height: 50px;
-        }
-    }
+.mt-custom{
+    padding: 50px 0px 0px;
 }
+
 
 //footer
 footer{
